@@ -1,10 +1,14 @@
-# ApolloAngular
+# Apollo Angular App
 
-## Details
+## Basic details
 
-The Apollo Client project is part of Apollo and lets you bind GraphQL data to your web user interface. Apollo client is available for major JavaScript frameworks like React, Vue.js, Angular. In this tutorial we’ll take a look at Apollo Client for Angular. We’ll set up a new Angular 5 project from scratch and you’ll learn how to install and make use of Apollo Client to retrieve data from a GraphQL server endpoint and then display those data in your Angular web application.
+The Apollo Client project is part of Apollo and lets us bind GraphQL data to the web user interface. Apollo client is available for major JavaScript frameworks like React, Vue.js, Angular. In this tutorial we’ll take a look at Apollo Client for Angular. We’ll set up a new Angular 5 project from scratch and we’ll learn how to install and make use of Apollo Client to retrieve data from a GraphQL server endpoint and then display those data in your Angular web application.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
+
+## installation
+
+Run `npm install`
 
 ## Development server
 
@@ -30,13 +34,12 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-## GraphQL
+## GraphQL set-up
 
-I have used launchpad.graphql.com to get details from server
+I have used launchpad.graphql.com as GraphQL to get details from server and data are stored below (login with github to change/modify any server data)
 https://launchpad.graphql.com/4rjnjnjvn9
 
-## Reference 
-
+## Reference taken from 
 https://codingthesmartway.com/apollo-client-for-angular-making-use-of-graphql/
 
 ## Published URL
