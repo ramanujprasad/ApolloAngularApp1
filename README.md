@@ -43,4 +43,4 @@ https://ramanujprasad.github.io/ApolloAngularApp1/
 
 ## Image of application
 
-[https://github.com/ramanujprasad/ApolloAngularApp1/blob/master/src/assets/appDesktop.JPG]
+![App image](https://github.com/ramanujprasad/ApolloAngularApp1/blob/master/src/assets/appDesktop.JPG)
