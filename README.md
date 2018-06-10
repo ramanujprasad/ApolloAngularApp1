@@ -37,7 +37,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 I have used launchpad.graphql.com as GraphQL to get details from server and data are stored below (login with github to change/modify any server data)
 https://launchpad.graphql.com/4rjnjnjvn9
 
-## Published URL
+## Live Demo
 
 https://ramanujprasad.github.io/ApolloAngularApp1/
 
